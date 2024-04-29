@@ -69,8 +69,8 @@ const About = () => {
         <Heading>Hey, I'm Donavin.</Heading>
 
         <Text>
-          A Software Engineer with nearly ten years of experience in various
-          roles within the software development lifecycle.
+          A Software Engineer with nearly ten years of experience within various
+          roles in the software development lifecycle.
         </Text>
 
         <ExternalSites>

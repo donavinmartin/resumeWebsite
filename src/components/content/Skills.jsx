@@ -4,11 +4,11 @@ import DetailGroup from "../shared/elements/DetailGroup";
 import DetailText from "../shared/elements/DetailText";
 
 const Skills = () => {
-  const competencies = "JavaScript, Swift, C#, Java, C++, SQL, HTML, CSS";
+  const competencies = "JAVASCRIPT, SWIFT, JAVA, C#, SQL, HTML, CSS";
   const tools =
-    "Npm, Git, GitHub, Docker, Jenkins, Kibana, Heroku, Jmeter, Postman, Azure Devops, Jira, Confluence";
+    "NPM, GIT, GITHUB, POSTMAN, CHAI, JENKINS, CYPRESS, SELENIUM, JMETER, KIBANA, AZURE DEVOPS, JIRA, CONFLUENCE";
   const frameworks =
-    "React, Redux, Node.js, Express, Sequelize, Springboot, .Net, Cypress, Selemium, React Native, Electron";
+    "REACT, NODE.JS, EXPRESS, SEQUELIZE, .NET, REACT NATIVE, ELECTRON";
 
   return (
     <ContentContainer id="skills" heading={"Competencies"}>
